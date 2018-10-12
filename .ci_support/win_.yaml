@@ -1,0 +1,4 @@
+channel_sources:
+- mirebeau,conda-forge,defaults
+channel_targets:
+- mirebeau main

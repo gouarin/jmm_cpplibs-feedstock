@@ -18,7 +18,7 @@ Current build status
 
 [![Linux](https://img.shields.io/circleci/project/github/Mirebeau/jmm_cpplibs-feedstock/master.svg?label=Linux)](https://circleci.com/gh/Mirebeau/jmm_cpplibs-feedstock)
 [![OSX](https://img.shields.io/travis/Mirebeau/jmm_cpplibs-feedstock/master.svg?label=macOS)](https://travis-ci.org/Mirebeau/jmm_cpplibs-feedstock)
-![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
+[![Windows](https://img.shields.io/appveyor/ci/Mirebeau/jmm-cpplibs-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/Mirebeau/jmm-cpplibs-feedstock/branch/master)
 
 Current release info
 ====================
