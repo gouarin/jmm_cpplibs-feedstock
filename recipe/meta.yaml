@@ -6,7 +6,7 @@ source:
     sha256: b28f52236d40a7b35298110c2f5c05223efda46672e3add4675f6770d1e4e23d
     url: https://github.com/Mirebeau/JMM_CPPLibs/archive/v0.1.3.tar.gz
 build:
-    number: '0'
+    number: 0
     skip: true  # [win and py<35]
 
 requirements:
